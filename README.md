@@ -1,5 +1,8 @@
 # WordCount
 WordCount
+
+https://github.com/fernandovargasquiroz/WordCount.git
+
 Word Count has the main class WordsFrequency.java, which has as input a text file in this case located at E: /words.txt.
 
 package com.bbdd.wordcount;
